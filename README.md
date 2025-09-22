@@ -21,8 +21,7 @@ O objetivo é servir como **material de consulta** e **portfólio de aprendizado
 - `resumo/` → resumo teórico em Markdown (otimizado para Notion).  
 - `scripts/` → scripts `.sql` organizados em:  
   - `consultas/` → queries feitas durante as aulas.  
-  - `exercicios/` → exercícios práticos resolvidos.  
-- `docs/` → materiais extras (diagramas, prints, etc).  
+  - `exercicios/` → exercícios práticos resolvidos.   
 
 ---
 
