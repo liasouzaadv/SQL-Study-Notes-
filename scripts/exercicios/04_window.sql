@@ -1,0 +1,1 @@
+-- Saldo de pontos acumulado de cada usuário
