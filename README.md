@@ -37,7 +37,8 @@ O **Resumo_SQL_Notion.md** traz de forma organizada:
 - Funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
 - `GROUP BY` e `HAVING`
 - `JOINS` (INNER, LEFT, RIGHT, FULL)
-
+- `CTE (Common Table Expression)`
+- `WINDOW FUNCTION`
 ---
 
 ## 📂 Scripts SQL
